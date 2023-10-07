@@ -39,16 +39,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: Linkedin
-    url: www.linkedin.com/in/alexis-bolduc
-  - title: 
-    url:
-  - title: 
-    url: 
-  - title: 
-    url: 
-  - title: 
-    url: 
+  - title: linkedin
+    url: http://www.linkedin.com/in/alexis-bolduc
 
 # Postal address (add as many lines as necessary)
 address:
