@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 vid: E-6wlqbwnNw
-img: cabin.png
+img: 1000.png
 alt: image-alt
 project-date: 11 octobre 2022
 client:
