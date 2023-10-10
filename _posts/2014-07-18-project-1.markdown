@@ -2,7 +2,8 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: E-6wlqbwnNw
+vid: E-6wlqbwnNw
+img:
 alt: image-alt
 project-date: 11 octobre 2022
 client:
