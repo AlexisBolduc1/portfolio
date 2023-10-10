@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 vid: mxpvEg7RHt0
-img: cake.png
+img: nature.png
 alt: image-alt
 project-date: 19 mai 2023
 client: 
