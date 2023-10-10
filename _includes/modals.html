@@ -15,7 +15,8 @@
           <div class="modal-body">
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
-            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+            <iframe class="img-responsive img-centered" width="420" height="315" src="https://www.youtube.com/embed/{{ post.img }}">
+            </iframe>
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
@@ -31,7 +32,7 @@
               </li>
               {% endif %}
               {% if post.category %}
-              <li>Service:
+              <li>Type:
                 <strong>{{ post.category }}</strong>
               </li>
               {% endif %}

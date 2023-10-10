@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: E-6wlqbwnNw
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 11 octobre 2022
+client:
 category: Création Vidéo
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Dans un univers visuel hautement stylisé, "1000 Degrés" nous plonge dans l'histoire poignante d'un homme, dont la vie est engloutie par l'addiction à la cigarette. Le court métrage explore la désintégration progressive de sa réalité à travers des couleurs saturées à l'extrême.
 ---
