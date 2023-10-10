@@ -2,10 +2,11 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
+vid: mxpvEg7RHt0
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: 19 mai 2023
+client: 
+category: Création Vidéo + Animation 3D
+description: Nature Morte est un court métrage en 3D qui propose un voyage visuel à travers les extrêmes de la nature, illustrant la transition de la quiétude à la destruction.
 ---
