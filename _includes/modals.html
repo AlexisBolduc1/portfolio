@@ -28,8 +28,12 @@
               src="https://www.youtube.com/embed/{{ post.vid }}"
             >
             </iframe>
-            {% endif %} {% if post.img1 %}
-            <swiper-container>
+            {% endif %} 
+            {% if post.img1 %}
+            <!-- Slider main container -->
+            <div class="swiper">
+            <!-- Additional required wrapper -->
+            <div class="swiper-wrapper">
               <swiper-slide
                 ><img
                   src="img/portfolio/{{ post.img1 }}"
@@ -48,11 +52,13 @@
                   class="img-responsive img-centered"
                   alt="{{ post.alt }}"
               /></swiper-slide>
-            </swiper-container>
+            
 
             <div class="swiper-button-prev"></div>
             <div class="swiper-button-next"></div>
-            {% endif %} {% if post.description %}
+            {% endif %} 
+            
+            {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
             <ul class="list-inline item-details">
