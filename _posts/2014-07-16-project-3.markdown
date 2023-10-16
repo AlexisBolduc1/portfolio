@@ -7,6 +7,6 @@ img: folie.png
 alt: image-alt
 project-date: 22-23-24 mai 2023
 client: 
-category: Jeu d'évasion
+category: Projet Parascolaire - Jeu d'évasion
 description: Dans les années 50 à Montréal, une organisation secrète fait des tests sur l'esprit de ses patients, sous le couvert d'une asile psychiatrique. Vous y avez été interné et vous devez maintenant travailler ensemble pour résoudre les énigmes, échapper aux obstacles et réussir à retrouver votre liberté, à la fois dans l'asile et dans votre propre esprit.
 ---

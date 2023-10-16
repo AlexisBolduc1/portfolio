@@ -17,6 +17,18 @@
             <hr class="star-primary">
             <iframe class="img-centered" width="608" height="308" src="https://www.youtube.com/embed/{{ post.vid }}">
             </iframe>
+            <div class="w3-content w3-display-container">
+              <img class="mySlides" src="../img/portfolio/1000.png">
+              <img class="mySlides" src="../img/portfolio/folie.png">
+              <img class="mySlides" src="../img/portfolio/nature.png">
+              <div class="w3-center w3-display-bottommiddle" style="width:100%">
+                <div class="w3-left" onclick="plusDivs(-1)">&#10094;</div>
+                <div class="w3-right" onclick="plusDivs(1)">&#10095;</div>
+                <span class="w3-badge demo w3-border" onclick="currentDiv(1)"></span>
+                <span class="w3-badge demo w3-border" onclick="currentDiv(2)"></span>
+                <span class="w3-badge demo w3-border" onclick="currentDiv(3)"></span>
+              </div>
+            </div>
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
