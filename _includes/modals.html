@@ -15,9 +15,20 @@
           <div class="modal-body">
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
+
+            {% if post.vid %}
             <iframe class="img-centered" width="608" height="308" src="https://www.youtube.com/embed/{{ post.vid }}">
             </iframe>
-            
+            {% endif %}
+
+            {% if post.img1 %}
+            <swiper-container>
+              <swiper-slide><img src="img/portfolio/{{ post.img1 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              <swiper-slide><img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              <swiper-slide><img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+            </swiper-container>
+            {% endif %}
+
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
