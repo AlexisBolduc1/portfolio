@@ -3,6 +3,7 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 vid: 
+img: 1000.png
 img1: 1000.png
 img2: 1000.png
 img3: 1000.png
