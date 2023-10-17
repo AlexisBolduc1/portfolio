@@ -20,23 +20,12 @@
             </iframe>
             {% endif %}
             {% if post.img1 %}
-            <div class="swiper">
-              <div class="swiper-wrapper">
-                <!-- Slides -->
-                <div class="swiper-slide"><img src="img/portfolio/{{ post.img1 }}" class="img-responsive img-centered"
+            <img src="img/portfolio/{{ post.img1 }}" class="img-responsive img-centered"
                   alt="{{ post.alt }}" /></div>
-                <div class="swiper-slide"><img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered"
+            <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered"
+                  alt="{{ post.alt }}" />
+            <img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-centered"
                   alt="{{ post.alt }}" /></div>
-                <div class="swiper-slide"><img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-centered"
-                  alt="{{ post.alt }}" /></div>
-              </div> <!-- If we need pagination -->
-              <div class="swiper-pagination"></div>
-              <!-- If we need navigation buttons -->
-              <div class="swiper-button-prev"></div>
-              <div class="swiper-button-next"></div>
-              <!-- If we need scrollbar -->
-              <div class="swiper-scrollbar"></div>
-            </div>
             {% endif %}
 
             {% if post.description %}
