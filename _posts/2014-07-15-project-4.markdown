@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 4
+title: Autoportrait
 date: 2021-10-19
 vid: 
 img: 1000.png

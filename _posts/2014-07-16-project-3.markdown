@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 3
+title: L'échappée de la folie
 date: 2023-05-22
 vid: r-W4Wr5XVq4
 img: folie.png

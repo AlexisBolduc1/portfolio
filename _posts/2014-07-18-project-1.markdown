@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+title: 1000°
 date: 2022-10-11
 vid: E-6wlqbwnNw
 img: 1000.png
