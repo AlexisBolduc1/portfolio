@@ -4,9 +4,11 @@ modal-id: 4
 date: 2014-07-15
 vid: 
 img: 1000.png
-img1: 1000.png
-img2: 1000.png
-img3: 1000.png
+img1: autoportrait3.jpg
+img2: autoportrait4.jpg
+img3: autoportrait5.jpg
+img4: autoportrait6.jpg
+img5: signature.jpg
 alt: image-alt
 project-date: April 2014
 client: 
