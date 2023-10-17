@@ -1,12 +1,7 @@
 <!-- Portfolio Modals -->
 {% for post in site.posts %}
-<div
-  class="portfolio-modal modal fade"
-  id="portfolioModal-{{ post.modal-id }}"
-  tabindex="-1"
-  role="dialog"
-  aria-hidden="true"
->
+<div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog"
+  aria-hidden="true">
   <div class="modal-content">
     <div class="close-modal" data-dismiss="modal">
       <div class="lr">
@@ -21,43 +16,29 @@
             <hr class="star-primary" />
 
             {% if post.vid %}
-            <iframe
-              class="img-centered"
-              width="608"
-              height="308"
-              src="https://www.youtube.com/embed/{{ post.vid }}"
-            >
+            <iframe class="img-centered" width="608" height="308" src="https://www.youtube.com/embed/{{ post.vid }}">
             </iframe>
-            {% endif %} 
+            {% endif %}
             {% if post.img1 %}
-            <!-- Slider main container -->
             <div class="swiper">
-            <!-- Additional required wrapper -->
-            <div class="swiper-wrapper">
-              <swiper-slide
-                ><img
-                  src="img/portfolio/{{ post.img1 }}"
-                  class="img-responsive img-centered"
-                  alt="{{ post.alt }}"
-              /></swiper-slide>
-              <swiper-slide
-                ><img
-                  src="img/portfolio/{{ post.img2 }}"
-                  class="img-responsive img-centered"
-                  alt="{{ post.alt }}"
-              /></swiper-slide>
-              <swiper-slide
-                ><img
-                  src="img/portfolio/{{ post.img3 }}"
-                  class="img-responsive img-centered"
-                  alt="{{ post.alt }}"
-              /></swiper-slide>
-            
+              <div class="swiper-wrapper">
+                <!-- Slides -->
+                <div class="swiper-slide"><img src="img/portfolio/{{ post.img1 }}" class="img-responsive img-centered"
+                  alt="{{ post.alt }}" /></div>
+                <div class="swiper-slide"><img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered"
+                  alt="{{ post.alt }}" /></div>
+                <div class="swiper-slide"><img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-centered"
+                  alt="{{ post.alt }}" /></div>
+              </div> <!-- If we need pagination -->
+              <div class="swiper-pagination"></div>
+              <!-- If we need navigation buttons -->
+              <div class="swiper-button-prev"></div>
+              <div class="swiper-button-next"></div>
+              <!-- If we need scrollbar -->
+              <div class="swiper-scrollbar"></div>
+            </div>
+            {% endif %}
 
-            <div class="swiper-button-prev"></div>
-            <div class="swiper-button-next"></div>
-            {% endif %} 
-            
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
