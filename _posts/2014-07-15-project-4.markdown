@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2021-10-19
 vid: 
 img: 1000.png
 img1: autoportrait3.jpg
@@ -10,7 +10,7 @@ img3: autoportrait5.jpg
 img4: autoportrait6.jpg
 img5: signature.jpg
 alt: image-alt
-project-date: April 2014
+project-date: Octobre 2021
 client: 
 category: Photoshop
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.

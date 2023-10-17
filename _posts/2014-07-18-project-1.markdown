@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2022-10-11
 vid: E-6wlqbwnNw
 img: 1000.png
 alt: image-alt
-project-date: 11 octobre 2022
+project-date: Octobre 2022
 client:
 category: Création Vidéo
 description: Dans un univers visuel hautement stylisé, "1000°" nous plonge dans l'histoire poignante d'un homme, dont la vie est engloutie par l'addiction à la cigarette. Le court métrage explore la désintégration progressive de sa réalité à travers des couleurs saturées à l'extrême.
