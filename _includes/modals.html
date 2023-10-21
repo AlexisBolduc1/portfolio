@@ -1,5 +1,6 @@
 <!-- Portfolio Modals -->
 {% for post in site.posts %}
+{% if post.modal-id %}
 <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog"
   aria-hidden="true">
   <div class="modal-content">
@@ -36,10 +37,10 @@
             <p>{{ post.description }}</p>
             {% endif %}
             <ul class="list-inline item-details">
-              {% if post.client %}
+              {% if post.role %}
               <li>
-                Client:
-                <strong>{{ post.client }}</strong>
+                Rôle:
+                <strong>{{ post.role }}</strong>
               </li>
               {% endif %} {% if post.project-date %}
               <li>
@@ -52,6 +53,12 @@
                 <strong>{{ post.category }}</strong>
               </li>
               {% endif %}
+              {% if post.logiciel %}
+              <li>
+                Logiciels utilisés:
+                <strong>{{ post.logiciel }}</strong>
+              </li>
+              {% endif %}
             </ul>
             <button type="button" class="btn btn-default" data-dismiss="modal">
               <i class="fa fa-times"></i> Close
@@ -62,4 +69,5 @@
     </div>
   </div>
 </div>
+{% endif %}
 {% endfor %}

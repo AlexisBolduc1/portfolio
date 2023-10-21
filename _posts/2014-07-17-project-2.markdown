@@ -6,8 +6,9 @@ date: 2023-05-19
 vid: mxpvEg7RHt0
 img: nature.png
 alt: image-alt
-project-date: 19 mai 2023
-client: 
-category: Création Vidéo + Animation 3D
+project-date: Mai 2023
+role: Montage vidéo et sonore, Création des modèles 3D et Animation de scènes 3D (0:00 à 0:17/0:35 à 0:47)
+category: Création Vidéo et sonore + Animation 3D
+logiciel: DaVinci Resolve, VCV Rack, Reaper, Maya
 description: Nature Morte est un court métrage en 3D qui propose un voyage visuel à travers les extrêmes de la nature, illustrant la transition de la quiétude à la destruction.
 ---

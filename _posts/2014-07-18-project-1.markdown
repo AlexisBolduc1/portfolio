@@ -7,7 +7,8 @@ vid: E-6wlqbwnNw
 img: 1000.png
 alt: image-alt
 project-date: Octobre 2022
-client:
+role: Montage vidéo et sonore, Acteur et Scénariste
 category: Création Vidéo
+logiciel: DaVinci Resolve
 description: Dans un univers visuel hautement stylisé, "1000°" nous plonge dans l'histoire poignante d'un homme, dont la vie est engloutie par l'addiction à la cigarette. Le court métrage explore la désintégration progressive de sa réalité à travers des couleurs saturées à l'extrême.
 ---

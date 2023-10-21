@@ -12,7 +12,8 @@ img4: autoportrait6.jpg
 img5: signature.jpg
 alt: image-alt
 project-date: Octobre 2021
-client: 
-category: Photoshop
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+role: Ensemble du projet
+category: Collage photo
+logiciel: Photoshop
+description: Le collage "Autoportrait" est un voyage à travers différentes pensées qui nous traversent l'esprit. C'est également un voyage à travers différents décors qui viennent rajouter du propos au texte déjà inscrit. Tout cela avec une palette de couleurs qui vient faire ressortir un élément important à chaque image.
 ---

@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 
 date: 2014-07-15
-img: 1000.png
+img: 
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
