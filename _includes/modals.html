@@ -21,7 +21,7 @@
             </iframe>
             {% endif %}
             {% if post.img1%}
-            <swiper-container class="swiper" navigation="true" pagination="true">
+            <swiper-container class="swiper" pagination="true">
               <swiper-slide><img src="img/portfolio/{{ post.img1 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
               {% if post.img2 %}
               <swiper-slide><img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
@@ -87,6 +87,9 @@
               {% if post.behind10 %}
               <swiper-slide><img src="img/portfolio/{{ post.behind10 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
               {% endif %}
+
+              <div class="swiper-button-prev swiper-button-red"></div>
+
             </swiper-container>
             {% endif %}
           
