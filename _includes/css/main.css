@@ -180,9 +180,9 @@ section h2 {
     font-size: 3em;
 }
 
-.competence {
+section.competence {
     color: white;
-    background-color: black;
+    background: #{{ site.color.primary }};
 }
 
 section.success {
