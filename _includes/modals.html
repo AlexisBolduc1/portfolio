@@ -20,17 +20,37 @@
             <iframe class="img-centered" width="608" height="308" src="https://www.youtube.com/embed/{{ post.vid }}">
             </iframe>
             {% endif %}
-            {% if post.img1 %}
-            <img style="max-width: 800px" src="img/portfolio/{{ post.img1 }}" class="img-responsive img-centered"
-              alt="{{ post.alt }}" />
-            <img style="max-width: 800px" src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered"
-              alt="{{ post.alt }}" />
-            <img style="max-width: 800px" src="img/portfolio/{{ post.img3 }}" class="img-responsive img-centered"
-              alt="{{ post.alt }}" />
-            <img style="max-width: 800px" src="img/portfolio/{{ post.img4 }}" class="img-responsive img-centered"
-              alt="{{ post.alt }}" />
-            <img style="max-width: 800px" src="img/portfolio/{{ post.img5 }}" class="img-responsive img-centered"
-              alt="{{ post.alt }}" />
+            {% if post.img1%}
+            <swiper-container class="swiper" navigation="true" pagination="true">
+              <swiper-slide><img src="img/portfolio/{{ post.img1 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% if post.img2 %}
+              <swiper-slide><img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+              {% if post.img3 %}
+              <swiper-slide><img src="img/portfolio/{{ post.img3 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+              {% if post.img4 %}
+              <swiper-slide><img src="img/portfolio/{{ post.img4 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+              {% if post.img5 %}
+              <swiper-slide><img src="img/portfolio/{{ post.img5 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+              {% if post.img6 %}
+              <swiper-slide><img src="img/portfolio/{{ post.img6 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+              {% if post.img7 %}
+              <swiper-slide><img src="img/portfolio/{{ post.img7 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+              {% if post.img8 %}
+              <swiper-slide><img src="img/portfolio/{{ post.img8 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+              {% if post.img9 %}
+              <swiper-slide><img src="img/portfolio/{{ post.img9 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+              {% if post.img10 %}
+              <swiper-slide><img src="img/portfolio/{{ post.img10 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+            </swiper-container>
             {% endif %}
 
             {% if post.description %}
