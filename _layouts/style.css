@@ -5,7 +5,3 @@
     color:white;
     background-color: black;
 }
-
-hr.star-light.competence:after{
-    background-color: rgb(0, 0, 0);
-}

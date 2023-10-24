@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: Adresse
+  location: Numéro de téléphone
   social: Autre contact
   credits: Credits
 
@@ -44,8 +44,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Fabreville,
-  - line: Laval
+  - line: 438-395-5682
+  - line: 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
