@@ -180,14 +180,14 @@ section h2 {
     font-size: 3em;
 }
 
-section.success {
-    color: #fff;
-    background: #{{ site.color.primary }};
-}
-
 section.competence {
     color: white;
     background: black;
+}
+
+section.success {
+    color: #fff;
+    background: #{{ site.color.primary }};
 }
 
 @media(max-width:767px) {
