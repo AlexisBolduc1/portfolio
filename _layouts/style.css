@@ -5,3 +5,11 @@
     color:white;
     background-color: black;
 }
+
+svg{
+    color:#a4161a;
+}
+
+.swiper-pagination-bullet.swiper-pagination-bullet-active{
+    color:#a4161a;
+}
