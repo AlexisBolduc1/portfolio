@@ -37,22 +37,37 @@
             <p>{{ post.description }}</p>
             {% endif %}
 
-            {% if post.imgbehind1 %}
-              <img style="max-width: 800px" src="img/portfolio/{{ post.imgbehind1 }}"
-                class="img-responsive img-centered" alt="{{ post.alt }}" />
-
-              <img style="max-width: 800px" src="img/portfolio/{{ post.imgbehind2 }}"
-                class="img-responsive img-centered" alt="{{ post.alt }}" />
-
-            <div class="col-lg-4 col-lg-offset-2">
-              <img style="max-width: 800px" src="img/portfolio/{{ post.imgbehind3 }}"
-                class="img-responsive img-centered" alt="{{ post.alt }}" />
-            </div>
-
-            <div class="col-lg-4 col-lg-offset-2">
-              <img style="max-width: 800px" src="img/portfolio/{{ post.imgbehind4}}"
-                class="img-responsive img-centered" alt="{{ post.alt }}" />
-            </div>
+            {% if post.behind1%}
+            <swiper-container class="swiper" navigation="true" pagination="true">
+              <swiper-slide><img src="img/portfolio/{{ post.behind1 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% if post.behind2 %}
+              <swiper-slide><img src="img/portfolio/{{ post.behind2 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+              {% if post.behind3 %}
+              <swiper-slide><img src="img/portfolio/{{ post.behind3 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+              {% if post.behind4 %}
+              <swiper-slide><img src="img/portfolio/{{ post.behind4 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+              {% if post.behind5 %}
+              <swiper-slide><img src="img/portfolio/{{ post.behind5 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+              {% if post.behind6 %}
+              <swiper-slide><img src="img/portfolio/{{ post.behind6 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+              {% if post.behind7 %}
+              <swiper-slide><img src="img/portfolio/{{ post.behind7 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+              {% if post.behind8 %}
+              <swiper-slide><img src="img/portfolio/{{ post.behind8 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+              {% if post.behind9 %}
+              <swiper-slide><img src="img/portfolio/{{ post.behind9 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+              {% if post.behind10 %}
+              <swiper-slide><img src="img/portfolio/{{ post.behind10 }}" class="img-responsive img-centered" alt="{{ post.alt }}"></swiper-slide>
+              {% endif %}
+            </swiper-container>
             {% endif %}
           
             <ul class="list-inline item-details">
