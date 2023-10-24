@@ -180,9 +180,9 @@ section h2 {
     font-size: 3em;
 }
 
-section.competence {
+.competence {
     color: white;
-    background: black;
+    background-color: black;
 }
 
 section.success {
