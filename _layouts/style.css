@@ -6,6 +6,11 @@
     background-color: black;
 }
 
-.swiper{
+.swiper-button-next svg, 
+.swiper-button-prev svg{
     color:#a4161a;
+}
+
+.swiper-pagination-bullet-active{
+    background-color: #a4161a;
 }
