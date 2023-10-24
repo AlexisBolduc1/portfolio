@@ -5,6 +5,8 @@ title: L'échappée de la folie
 date: 2023-05-22
 imgbehind1: regie_folie.jpg
 imgbehind2: gstudio_folie.jpg
+imgbehind3: piano_folie.jpg
+imgbehind4: machine_folie.jpg
 vid: r-W4Wr5XVq4
 img: folie.png
 alt: image-alt

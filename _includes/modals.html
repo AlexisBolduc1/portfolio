@@ -38,13 +38,19 @@
             {% endif %}
 
             {% if post.imgbehind1 %}
-            <div class="col-lg-4 col-lg-offset-2">
               <img style="max-width: 800px" src="img/portfolio/{{ post.imgbehind1 }}"
+                class="img-responsive img-centered" alt="{{ post.alt }}" />
+
+              <img style="max-width: 800px" src="img/portfolio/{{ post.imgbehind2 }}"
+                class="img-responsive img-centered" alt="{{ post.alt }}" />
+
+            <div class="col-lg-4 col-lg-offset-2">
+              <img style="max-width: 800px" src="img/portfolio/{{ post.imgbehind3 }}"
                 class="img-responsive img-centered" alt="{{ post.alt }}" />
             </div>
 
             <div class="col-lg-4 col-lg-offset-2">
-              <img style="max-width: 800px" src="img/portfolio/{{ post.imgbehind2 }}"
+              <img style="max-width: 800px" src="img/portfolio/{{ post.imgbehind4}}"
                 class="img-responsive img-centered" alt="{{ post.alt }}" />
             </div>
             {% endif %}
