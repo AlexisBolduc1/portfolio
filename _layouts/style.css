@@ -6,7 +6,6 @@
     background-color: black;
 }
 
-.star-light.competence{
-    color:white;
+hr.star-light.competence:after{
     background-color: rgb(0, 0, 0);
 }
