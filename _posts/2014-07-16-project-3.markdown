@@ -10,7 +10,7 @@ behind4: machine_folie.jpg
 behind5: lumiere_folie.jpg
 behind6: cadenas_folie.jpg
 behind7: projo_folie.jpg
-behind7: manette_folie.jpg
+behind8: manette_folie.jpg
 vid: r-W4Wr5XVq4
 img: folie.png
 alt: image-alt
