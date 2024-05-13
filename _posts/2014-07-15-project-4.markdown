@@ -4,7 +4,7 @@ modal-id: 4
 title: Autoportrait
 date: 2021-10-19
 vid: 
-img: autoportrait2.png
+img: autoportrai2.png
 img1: autoportrait3.jpg
 img2: autoportrait4.jpg
 img3: autoportrait5.jpg
