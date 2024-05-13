@@ -4,7 +4,7 @@ modal-id: 2
 title: Nature morte
 date: 2023-05-19
 vid: mxpvEg7RHt0
-img: nature.png
+img: nature2.png
 alt: image-alt
 project-date: Mai 2023
 role: Montage vidéo et sonore, Création des modèles 3D et Animation de scènes 3D (0:00 à 0:17/0:35 à 0:47)
