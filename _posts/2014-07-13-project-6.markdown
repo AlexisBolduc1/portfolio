@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 1
-title: Autoportrait
+title: Porte Parole
 date: 2023-07-22
-img: effet-papillon.png
+img: porte-parole.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

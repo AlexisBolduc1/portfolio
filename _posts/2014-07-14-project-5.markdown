@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-title: Autoportrait
+title: Effet Papillon
 date: 2023-06-22
 img: effet-papillon.png
 alt: image-alt
