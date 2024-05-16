@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 
-date: 2014-07-15
-img: 
+modal-id: 6
+date: 2024-08-15
+img: effet-papillon.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
