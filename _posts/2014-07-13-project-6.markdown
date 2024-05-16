@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 6
+title: Autoportrait
 date: 2024-08-15
 img: effet-papillon.png
 alt: image-alt
