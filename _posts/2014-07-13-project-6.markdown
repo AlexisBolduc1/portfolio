@@ -4,9 +4,11 @@ modal-id: 1
 title: Porte Parole
 date: 2023-07-22
 img: porte-parole.png
+vid: SKp2NmSgCi8
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Mai 2024
+role: Montage vidéo à partir de vidéos envoyées
+logiciel: DaVinci Resolve
+category: Montage vidéo
+description: Dans le cadre de la soirée des pitchs Porte Parole, j'ai créer des vidéos qui avaient pour but de présenter les participants avant leur entrée sur scène et la présentation de leur pitch. Les vidéos ont été réalisées à partir de vidéos filmés par les participants lors de leur processus de création. La vidéo que vous voyez est celle du gagnant de la soirée.
 ---

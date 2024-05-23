@@ -8,7 +8,7 @@ img: effet-papillon.png
 alt: image-alt
 project-date: Mars 2024
 role: Visuels sur les écrans et programmation du pommier électronique
-logiciel: TouchDesigner, After effect, Arduino, Maya
+logiciel: TouchDesigner, After effect, Arduino, Maya, Fl Studio
 category: Installation interactive et immersive
 description: Effet papillon vous invite à constater l’impact de vos actions sur le paysage réel et numérique qui vous entoure au travers du cycle de la vie d’un pommier bionique. Une expérience immersive qui vous permet d’interagir avec votre environnement et d’en voir les effets. 
 ---
