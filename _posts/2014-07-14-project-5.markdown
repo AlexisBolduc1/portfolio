@@ -3,10 +3,12 @@ layout: default
 modal-id: 2
 title: Effet Papillon
 date: 2023-06-22
+vid: 4NIwKsGlzsI
 img: effet-papillon.png
 alt: image-alt
 project-date: April 2024
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+role: Montage vidéo et sonore, Création des modèles 3D et Animation de scènes 3D (0:00 à 0:17/0:35 à 0:47)
+logiciel: TouchDesigner, After effect, Arduino, Maya
+category: Installation intéractive et immersive
+description: L’effet papillon est une métaphore qui démontre que de simples actions peuvent générer d’énormes changements au fil du temps. Effet papillon vous invite à constater l’impact de vos actions sur le paysage réel et numérique qui vous entoure au travers du cycle de la vie d’un pommier bionique. Une expérience immersive qui vous permet d’interagir avec votre environnement et d’en voir les effets. 
 ---
