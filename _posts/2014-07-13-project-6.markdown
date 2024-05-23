@@ -10,5 +10,5 @@ project-date: Mai 2024
 role: Montage vidéo à partir de vidéos envoyées
 logiciel: DaVinci Resolve
 category: Montage vidéo
-description: Dans le cadre de la soirée des pitchs Porte Parole, j'ai créer des vidéos qui avaient pour but de présenter les participants avant leur entrée sur scène et la présentation de leur pitch. Les vidéos ont été réalisées à partir de vidéos filmés par les participants lors de leur processus de création. La vidéo que vous voyez est celle du gagnant de la soirée.
+description: Dans le cadre de la soirée des pitchs Porte Parole, j'ai créé des vidéos visant à présenter les participants avant leur entrée sur scène. Les vidéos ont été réalisées à partir de séquences filmées par les participants eux-mêmes pendant leur processus de création. La vidéo que vous voyez est celle du gagnant de la soirée.
 ---
