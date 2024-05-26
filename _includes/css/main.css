@@ -4,6 +4,10 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+.swiper-button-next{
+    color:black;
+}
+
 body {
     overflow-x: hidden;
 }
