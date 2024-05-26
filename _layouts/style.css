@@ -15,17 +15,9 @@
     background-color: #a4161a;
 }
 
-.swiper-button-prev {
-    color: red; 
-    border:2px solid black;
-}
-
-.swiper-button-next {
-    color:red;
-border:2px solid black;
-}
-
 :root {
     --swiper-navigation-color: red;
     --swiper-pagination-color: red;
+    --swiper-navigation-border-color: black;
+    --swiper-pagination-border-color: black;
   }
