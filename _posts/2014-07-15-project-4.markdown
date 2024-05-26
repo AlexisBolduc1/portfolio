@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 
 title: Autoportrait
 date: 2021-10-19
 vid: 
