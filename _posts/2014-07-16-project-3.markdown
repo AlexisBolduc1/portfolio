@@ -3,12 +3,12 @@ layout: default
 modal-id: 4
 title: L'échappée de la folie
 date: 2023-05-22
-behind1: regie_folie.jpg
+behind1: lumiere_folie.jpg
 behind2: gstudio_folie.jpg
 behind3: brainstorm_echappee.jpg
 behind4: machine_folie.jpg
 behind5: piano_folie.jpg
-behind6: lumiere_folie.jpg
+behind6: regie_folie.jpg
 behind7: cadenas_folie.jpg
 behind8: projo_folie.jpg
 behind9: manette_folie.jpg
