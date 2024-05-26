@@ -14,3 +14,8 @@
 .swiper-pagination-bullet-active{
     background-color: #a4161a;
 }
+
+:root {
+    --swiper-navigation-color: red;
+    --swiper-pagination-color: red;
+  }
