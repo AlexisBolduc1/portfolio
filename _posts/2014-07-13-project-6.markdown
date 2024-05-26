@@ -3,6 +3,10 @@ layout: default
 modal-id: 1
 title: Porte Parole
 date: 2023-07-22
+behind1: affiche-vote-pitch.png
+behind2: planning-pitch.png
+behind3: affiche-explication-alexia.png
+behind4: affiche-explication-jesse.png
 img: porte-parole.png
 vid: SKp2NmSgCi8
 alt: image-alt
