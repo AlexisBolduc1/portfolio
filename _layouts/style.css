@@ -16,8 +16,6 @@
 }
 
 :root {
-    --swiper-navigation-color: red;
-    --swiper-pagination-color: red;
-    --swiper-navigation-border-color: black;
-    --swiper-pagination-border-color: black;
+    --swiper-navigation-color: black;
+    --swiper-pagination-color: black;
   }
