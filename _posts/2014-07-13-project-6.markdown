@@ -9,7 +9,7 @@ behind3: affiche-explication-alexia.png
 behind4: affiche-explication-jesse.png
 img: porte-parole.png
 vid1: SKp2NmSgCi8
-vid2: SKp2NmSgCi8
+vid2: shorts/YVCT8_4LV4c
 alt: image-alt
 project-date: Mai 2024
 role: Montage vidéo à partir de vidéos envoyées
