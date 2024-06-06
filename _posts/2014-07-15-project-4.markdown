@@ -1,10 +1,10 @@
 ---
 layout: default
-modal-id: 
+modal-id: 3
 title: Compilation Design Graphique
-date: 2021-10-19
+date: 2023-08-22
 vid: 
-img: autoportrai2.png
+img: retro-design.png
 img1: affiche-clean.png
 img2: rev-fr.png
 img3: bubble-text.png
@@ -13,7 +13,7 @@ img5:
 alt: image-alt
 project-date: Année 2024
 role: Ensemble du projet
-category: Collage photo
+category: Design Graphique
 logiciel: Photoshop, Illustrator
-description: Le collage "Autoportrait" est un voyage à travers différentes pensées qui nous traversent l'esprit. C'est également un voyage à travers différents décors qui viennent rajouter du propos au texte déjà inscrit. Tout cela avec une palette de couleurs qui vient faire ressortir un élément important à chaque image.
+description: Je consacre une partie de mon temps libre à la création de designs graphiques. C'est pour moi une manière d'explorer ma créativité et de tester de nouvelles techniques et styles sans les contraintes d'un projet. Voici quelques exemples de mes travaux personnels que j'ai réalisés par pur plaisir et passion pour le design.
 ---
