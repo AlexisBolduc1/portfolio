@@ -6,8 +6,8 @@ date: 2023-08-22
 vid: 
 img: retro-design.png
 img1: affiche-clean.png
-img2: rev-fr.png
-img3: bubble-text.png
+img2: affiche-clean2.png
+img3: 
 img4: 
 img5: 
 alt: image-alt
