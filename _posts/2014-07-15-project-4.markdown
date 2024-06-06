@@ -7,7 +7,7 @@ vid:
 img: retro-design.png
 img1: affiche-clean.png
 img2: affiche-clean1.png
-img3: vaguee.png
+img3: vague.png
 img4: 
 img5: 
 alt: image-alt
