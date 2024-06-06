@@ -1,19 +1,19 @@
 ---
 layout: default
 modal-id: 
-title: Autoportrait
+title: Compilation Design Graphique
 date: 2021-10-19
 vid: 
 img: autoportrai2.png
-img1: signature.jpg
-img2: autoportrait4.jpg
-img3: autoportrait5.jpg
-img4: autoportrait6.jpg
-img5: autoportrait3.jpg
+img1: affiche-clean.png
+img2: rev-fr.png
+img3: bubble-text.png
+img4: 
+img5: 
 alt: image-alt
-project-date: Octobre 2021
+project-date: Année 2024
 role: Ensemble du projet
 category: Collage photo
-logiciel: Photoshop
+logiciel: Photoshop, Illustrator
 description: Le collage "Autoportrait" est un voyage à travers différentes pensées qui nous traversent l'esprit. C'est également un voyage à travers différents décors qui viennent rajouter du propos au texte déjà inscrit. Tout cela avec une palette de couleurs qui vient faire ressortir un élément important à chaque image.
 ---
