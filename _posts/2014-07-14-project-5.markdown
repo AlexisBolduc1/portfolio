@@ -4,7 +4,7 @@ modal-id: 2
 title: Effet Papillon
 date: 2023-06-22
 vid: 4NIwKsGlzsI
-img: effet-papillon.png
+img: papillonp.png
 alt: image-alt
 project-date: Mars 2024
 role: Visuels sur les écrans et programmation du pommier électronique

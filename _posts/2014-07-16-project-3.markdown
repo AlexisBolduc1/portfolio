@@ -13,7 +13,7 @@ behind7: cadenas_folie.jpg
 behind8: projo_folie.jpg
 behind9: manette_folie.jpg
 vid: mEOsal5otdk
-img: folie2.png
+img: foliep.png
 alt: image-alt
 project-date: Mai 2023
 role: Création des énigmes(en collaboration avec Raphaël Dumont), Création vidéo, sonore, Colorisation de la salle, Design des feuilles et acétates, Aide sur le développement des énigmes. Travail uniquement sur la deuxième salle

@@ -7,7 +7,7 @@ behind1: affiche-vote-pitch.png
 behind2: planning-pitch.png
 behind3: affiche-explication-alexia.png
 behind4: affiche-explication-jesse.png
-img: porte-parole.png
+img: parolep.png
 vid1: SKp2NmSgCi8
 vid2: dO7XW6P3_oU
 alt: image-alt
