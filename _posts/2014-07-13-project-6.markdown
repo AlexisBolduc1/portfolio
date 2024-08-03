@@ -13,8 +13,8 @@ vid1: SKp2NmSgCi8
 vid2: dO7XW6P3_oU
 alt: image-alt
 project-date: Mai 2024
-role: Montage vidéo à partir de vidéos envoyées
-logiciel: DaVinci Resolve, Preemiere, Illustrator, Canva
+role: Montage vidéo et Design à partir de vidéos et photos envoyées
+logiciel: DaVinci Resolve, Premiere, Illustrator, Canva
 category: Montage vidéo - Design graphique - Réseaux sociaux
 description: Dans le cadre de la soirée des pitchs Porte Parole, j'ai créé des vidéos visant à présenter les participants avant leur entrée sur scène. Les vidéos ont été réalisées à partir de séquences filmées par les participants eux-mêmes pendant leur processus de création. La vidéo que vous voyez est celle du gagnant de la soirée. En allant à droite, vous verrez également une vidéo que j'ai fait pour leur réseaux sociaux.
 ---
