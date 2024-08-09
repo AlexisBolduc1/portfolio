@@ -4,7 +4,7 @@ modal-id: 3
 title: Compilation Design Graphique
 date: 2023-08-22
 vid: 
-img: designp.png
+img: designo.png
 img1: affiche1.png
 img2: affiche2.png
 img3: affiche3.png
