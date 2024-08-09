@@ -5,10 +5,10 @@ title: Compilation Design Graphique
 date: 2023-08-22
 vid: 
 img: designp.png
-img1: affiche-clean.png
-img2: affiche-clean1.png
-img3: affiche-clean2.png
-img4: affiche-clean3.png
+img1: affiche1.png
+img2: affiche2.png
+img3: affiche3.png
+img4:
 img5: 
 alt: image-alt
 project-date: Année 2024
