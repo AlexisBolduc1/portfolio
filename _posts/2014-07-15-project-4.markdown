@@ -6,9 +6,9 @@ date: 2023-08-22
 vid: 
 img: designo.png
 img1: affiche01.png
-img2: affiche02.png
-img3: affiche3.png
-img4:
+img2: soundwave-festival.png
+img3: affiche02.png
+img4: affiche3.png
 img5: 
 alt: image-alt
 project-date: Année 2024
